@@ -139,4 +139,10 @@ However, we don't need to write Make files, as CMake does this for us. It is goo
 - [Best Practices](https://github.com/cpp-best-practices/cppbestpractices)
 - [Overview of STL](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library)
 - [Step-by-step Knowledge](https://knowledge.udacity.com/questions/267563#267762) answer about debugging your code using only dbg and dbg within vscode.
-
+- [Type Inference in C++ (auto and decltype)](https://www.geeksforgeeks.org/type-inference-in-c-auto-and-decltype/)
+- [Does 'auto' type assignments of a pointer in c++11 require '*'?](https://stackoverflow.com/questions/12773257/does-auto-type-assignments-of-a-pointer-in-c11-require)
+- [Lambda expressions](https://en.cppreference.com/w/cpp/language/lambda)
+- [Lambda expressions in C++](https://learn.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170&viewFallbackFrom=vs-2019)
+- [this Knowledge answer ](https://knowledge.udacity.com/questions/267842#267946)for the recommended C++ references
+- [Zeal](https://zealdocs.org/)
+- 
